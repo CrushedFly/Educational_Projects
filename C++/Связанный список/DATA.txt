@@ -1,0 +1,10 @@
+ 1  Ivan 	 Ivanov 	 54 	 26538.00
+ 2  Roman 	 Romanov 	 24 	 35742.00
+ 3  Petr 	 Tishkevich 	 34 	 57236.00
+ 4  Slava 	 Gor'kiy 	 37 	 54632.00
+ 5  Igor 	 Batish'ev 	 24 	 85662.00
+ 6  Petr 	 Romanenko 	 36 	 25487.00
+ 7  Ivan 	 Gor'kiy 	 84 	 52365.00
+ 8  Kirill 	 Vernik 	 37 	 45687.00
+ 9  Mark 	 Barinov 	 42 	 36587.00
+10  Vasiliy 	 Moiseenko 	 62 	 35847.00
